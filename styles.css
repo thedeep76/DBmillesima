@@ -1,0 +1,26 @@
+body {
+    background-image: url('honey-background.jpg'); /* Add your honey-like background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo {
+    width: 300px;
+    height: auto;
+  }
+  
+  .container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: #ff9900; /* Honey-like color */
+  }
+  
+  .btn {
+    margin: 10px;
+  }
